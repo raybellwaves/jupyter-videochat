@@ -82,6 +82,10 @@ output.
 pip uninstall jupyter-videochat
 ```
 
+## Launch
+
+Click on the + button (New Launcher) and you should "Video Chat" button under the Other section.
+
 ## Configuration
 
 ### Server Configuration
